@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+spacy
+transformers
+torch
+langdetect
+speechrecognition
+gtts
+pydub
+pydantic
+requests
