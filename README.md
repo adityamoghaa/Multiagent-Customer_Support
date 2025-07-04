@@ -1,6 +1,5 @@
 # Multi-Agent Customer Support System
-
-A modular, multi-agent support platform powered by NLP, Hugging Face, and SQLAlchemy.
+A modular, inteligent, multi-agent support platform powered by NLP, Hugging Face, CrewAI and SQLAlchemy.
 
 ## Features
 
@@ -32,7 +31,7 @@ See `docs/SETUP.md` for instructions.
     - `POST /ticket/audio` — Submit a WAV audio file
     - `GET /ticket/{id}` — Get ticket details
 
-## Extending
+## Extending (In progress)
 
 - Add new agents in `agents.py`
 - Improve classifiers or sentiment in `classifier.py` and `sentiment.py`
